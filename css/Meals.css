@@ -1,0 +1,160 @@
+body{
+    margin: 0;
+    display: block;
+    line-height: 1.15;
+}
+
+header{
+    width: 1280px;
+    height: 120px;
+    margin: auto;
+    background-color: #F5B003;
+    /*display: flex;
+    justify-content: center;*/
+}
+
+.logo{
+    width: 220px;
+    height: 100px;
+    margin-left: 110px;
+    margin-top: 10px;
+    float: left;
+}
+
+.bar{
+    margin-right: 100px;
+    margin-top: 40px;
+    float: right;
+}
+
+.fb{
+    width: 40px;
+    height: 40px;
+    margin-right: 40px;
+}
+
+.moreItems{
+    width: 40px;
+    height: 40px;
+}
+
+.mainDomain{
+    width: 1280px;
+    height: 1245px;
+    margin: auto;
+    background-color: rgb(238, 240, 229);
+}
+
+.mainImg{
+    width: 1280px;
+    height: 200px;
+}
+
+.mainCourse{
+    width: 1280px;
+    height: 500px;
+    margin-top: 30px;
+    margin-right: 110px;
+}
+
+.mainSteak{
+    float: left;
+    margin-left: 120px;
+}
+
+.mainCourseItems{
+    float: right;
+    margin-right: 98px;
+}
+
+.antipastoItems{
+    float: left;
+    margin-left: 120px;
+}
+
+.dessertItems{
+    float: right;
+    margin-right: 120px;
+}
+
+.price{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color: rgb(189, 66, 8);
+}
+
+.mainCourseTitle{
+    width: 345px;
+    height: 45px;
+    background-color: rgba(236, 133, 16, 0.774);
+    color: #EDF2C5;
+    font-family: 'Arial Black', sans-serif;
+    font-size: 16px;
+    border-radius: 5px;
+    padding: 5px 60px 8px 80px;
+    /*margin: 0 0 15px 0;*/
+}
+
+.fontStyle{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: rgb(189, 66, 8);
+    margin-top: 20px;
+}
+
+.otherMeals{
+    width: 1280px;
+    height: 520px;
+    margin-top: 0;
+    margin-right: 110px;
+}
+
+footer{
+    width: 1280px;
+    height: 240px;
+    margin: auto;
+    background-color: #F5B003;
+}
+
+.hrefs{
+    margin-left: 70px;
+    display: flex;
+}
+
+.hrefs p{
+    width: 80px;
+    height: 23px;
+    font-family: Microsoft JhengHei;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 24px;
+}
+
+.member{
+    margin-left: 80px;
+}
+
+.info{
+    width: 1140px;
+    height: 100px;
+    margin-left: 70px;
+    margin-bottom: 30px;
+}
+
+.info p{
+    font-family: Microsoft JhengHei;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.blank{
+    width: 1280px;
+    height: 40px;
+    background-color: #FFFFFF;
+    margin: auto;
+}
+
+.blank p{
+    margin-left:445px;
+    margin-top:12px;
+}
